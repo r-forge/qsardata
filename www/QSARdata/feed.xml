@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0212CC1F-6A2E-414F-A3F5-26C7480C7A67</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-09-19T19:33:26-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:AA4DC146-E6C1-4829-A360-A253F06291C2</id>
+  <title>QSARdata Package</title>
+  <title xmlns="urn:iweb:">QSARdata Package</title>
+  <in-navbar xmlns="urn:iweb:">AA4DC146-E6C1-4829-A360-A253F06291C2</in-navbar>
+  <link rel="alternate" href="QSARdata_Package.html"/>
+  <updated>2010-09-19T19:33:26.001-04:00</updated>
+  <content>QSARdata Package</content>
+ </entry>
+</feed>
