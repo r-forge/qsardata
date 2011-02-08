@@ -1,10 +1,12 @@
 Package: QSARdata
 Type: Package
 Title: Quantitative Structure Activity Relationship (QSAR) Data Sets
-Version: 1.00
-Date: 2010-09-18
+Version: 1.02
+Date: 2011-02-08
 Author: Max Kuhn
 Maintainer: Max Kuhn <mxkuhn@gmail.com>
 Description:  Molecular descriptors and outcomes for several public domain data sets
+Depends: R (>= 2.10)
 License: GPL
 LazyLoad: yes
+URL: http://qsardata.r-forge.r-project.org/
